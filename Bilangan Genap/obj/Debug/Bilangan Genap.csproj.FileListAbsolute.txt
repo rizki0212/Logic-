@@ -1,0 +1,5 @@
+D:\C#\Logic\Bilangan Genap\bin\Debug\Bilangan Genap.exe.config
+D:\C#\Logic\Bilangan Genap\bin\Debug\Bilangan Genap.exe
+D:\C#\Logic\Bilangan Genap\bin\Debug\Bilangan Genap.pdb
+D:\C#\Logic\Bilangan Genap\obj\Debug\Bilangan Genap.exe
+D:\C#\Logic\Bilangan Genap\obj\Debug\Bilangan Genap.pdb

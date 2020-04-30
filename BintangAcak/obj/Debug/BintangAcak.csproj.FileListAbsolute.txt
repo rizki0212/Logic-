@@ -1,0 +1,5 @@
+D:\C#\Logic\BintangAcak\bin\Debug\BintangAcak.exe.config
+D:\C#\Logic\BintangAcak\bin\Debug\BintangAcak.exe
+D:\C#\Logic\BintangAcak\bin\Debug\BintangAcak.pdb
+D:\C#\Logic\BintangAcak\obj\Debug\BintangAcak.exe
+D:\C#\Logic\BintangAcak\obj\Debug\BintangAcak.pdb

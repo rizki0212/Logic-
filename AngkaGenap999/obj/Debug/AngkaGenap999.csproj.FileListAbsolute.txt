@@ -1,0 +1,5 @@
+D:\C#\Logic\AngkaGenap999\bin\Debug\AngkaGenap999.exe.config
+D:\C#\Logic\AngkaGenap999\bin\Debug\AngkaGenap999.exe
+D:\C#\Logic\AngkaGenap999\bin\Debug\AngkaGenap999.pdb
+D:\C#\Logic\AngkaGenap999\obj\Debug\AngkaGenap999.exe
+D:\C#\Logic\AngkaGenap999\obj\Debug\AngkaGenap999.pdb

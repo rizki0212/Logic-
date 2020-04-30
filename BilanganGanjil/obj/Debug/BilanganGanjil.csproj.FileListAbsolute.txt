@@ -1,0 +1,5 @@
+D:\C#\Logic\BilanganGanjil\bin\Debug\BilanganGanjil.exe.config
+D:\C#\Logic\BilanganGanjil\bin\Debug\BilanganGanjil.exe
+D:\C#\Logic\BilanganGanjil\bin\Debug\BilanganGanjil.pdb
+D:\C#\Logic\BilanganGanjil\obj\Debug\BilanganGanjil.exe
+D:\C#\Logic\BilanganGanjil\obj\Debug\BilanganGanjil.pdb

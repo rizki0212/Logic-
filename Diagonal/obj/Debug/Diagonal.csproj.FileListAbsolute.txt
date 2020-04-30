@@ -1,0 +1,5 @@
+D:\C#\Logic\Diagonal\bin\Debug\Diagonal.exe.config
+D:\C#\Logic\Diagonal\bin\Debug\Diagonal.exe
+D:\C#\Logic\Diagonal\bin\Debug\Diagonal.pdb
+D:\C#\Logic\Diagonal\obj\Debug\Diagonal.exe
+D:\C#\Logic\Diagonal\obj\Debug\Diagonal.pdb

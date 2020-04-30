@@ -1,0 +1,5 @@
+D:\C#\Logic\GanjilGenapMinus\bin\Debug\GanjilGenapMinus.exe.config
+D:\C#\Logic\GanjilGenapMinus\bin\Debug\GanjilGenapMinus.exe
+D:\C#\Logic\GanjilGenapMinus\bin\Debug\GanjilGenapMinus.pdb
+D:\C#\Logic\GanjilGenapMinus\obj\Debug\GanjilGenapMinus.exe
+D:\C#\Logic\GanjilGenapMinus\obj\Debug\GanjilGenapMinus.pdb

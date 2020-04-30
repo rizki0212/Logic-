@@ -1,0 +1,6 @@
+D:\C#\Logic\Fibonaci\bin\Debug\Fibonaci.exe.config
+D:\C#\Logic\Fibonaci\bin\Debug\Fibonaci.exe
+D:\C#\Logic\Fibonaci\bin\Debug\Fibonaci.pdb
+D:\C#\Logic\Fibonaci\obj\Debug\Fibonaci.exe
+D:\C#\Logic\Fibonaci\obj\Debug\Fibonaci.pdb
+D:\C#\Logic\Fibonaci\obj\Debug\Fibonaci.csprojResolveAssemblyReference.cache

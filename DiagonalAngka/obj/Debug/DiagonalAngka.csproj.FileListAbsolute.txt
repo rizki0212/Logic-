@@ -1,0 +1,6 @@
+D:\C#\Logic\DiagonalAngka\bin\Debug\DiagonalAngka.exe.config
+D:\C#\Logic\DiagonalAngka\bin\Debug\DiagonalAngka.exe
+D:\C#\Logic\DiagonalAngka\bin\Debug\DiagonalAngka.pdb
+D:\C#\Logic\DiagonalAngka\obj\Debug\DiagonalAngka.csprojResolveAssemblyReference.cache
+D:\C#\Logic\DiagonalAngka\obj\Debug\DiagonalAngka.exe
+D:\C#\Logic\DiagonalAngka\obj\Debug\DiagonalAngka.pdb

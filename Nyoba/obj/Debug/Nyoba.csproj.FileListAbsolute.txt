@@ -1,0 +1,12 @@
+D:\C#\Logic\Nyoba\bin\Debug\Nyoba.exe.config
+D:\C#\Logic\Nyoba\bin\Debug\Nyoba.exe
+D:\C#\Logic\Nyoba\bin\Debug\Nyoba.pdb
+D:\C#\Logic\Nyoba\obj\Debug\Nyoba.csprojResolveAssemblyReference.cache
+D:\C#\Logic\Nyoba\obj\Debug\Nyoba.exe
+D:\C#\Logic\Nyoba\obj\Debug\Nyoba.pdb
+E:\Asiatek\Logic\Nyoba\bin\Debug\Nyoba.exe.config
+E:\Asiatek\Logic\Nyoba\obj\Debug\Nyoba.exe
+E:\Asiatek\Logic\Nyoba\obj\Debug\Nyoba.pdb
+E:\Asiatek\Logic\Nyoba\bin\Debug\Nyoba.exe
+E:\Asiatek\Logic\Nyoba\bin\Debug\Nyoba.pdb
+E:\Asiatek\Logic\Nyoba\obj\Debug\Nyoba.csprojResolveAssemblyReference.cache

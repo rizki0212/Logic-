@@ -1,0 +1,6 @@
+D:\C#\Logic\DiagonalKananAtasKiriBawah\bin\Debug\DiagonalKananAtasKiriBawah.exe.config
+D:\C#\Logic\DiagonalKananAtasKiriBawah\bin\Debug\DiagonalKananAtasKiriBawah.exe
+D:\C#\Logic\DiagonalKananAtasKiriBawah\bin\Debug\DiagonalKananAtasKiriBawah.pdb
+D:\C#\Logic\DiagonalKananAtasKiriBawah\obj\Debug\DiagonalKananAtasKiriBawah.exe
+D:\C#\Logic\DiagonalKananAtasKiriBawah\obj\Debug\DiagonalKananAtasKiriBawah.pdb
+D:\C#\Logic\DiagonalKananAtasKiriBawah\obj\Debug\DiagonalKananAtasKiriBawah.csprojResolveAssemblyReference.cache

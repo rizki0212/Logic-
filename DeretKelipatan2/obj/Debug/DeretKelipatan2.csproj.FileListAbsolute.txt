@@ -1,0 +1,5 @@
+D:\C#\Logic\DeretKelipatan2\bin\Debug\DeretKelipatan2.exe.config
+D:\C#\Logic\DeretKelipatan2\bin\Debug\DeretKelipatan2.exe
+D:\C#\Logic\DeretKelipatan2\bin\Debug\DeretKelipatan2.pdb
+D:\C#\Logic\DeretKelipatan2\obj\Debug\DeretKelipatan2.exe
+D:\C#\Logic\DeretKelipatan2\obj\Debug\DeretKelipatan2.pdb

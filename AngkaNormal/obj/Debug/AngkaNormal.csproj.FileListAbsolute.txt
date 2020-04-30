@@ -1,0 +1,6 @@
+D:\C#\Logic\AngkaNormal\bin\Debug\AngkaNormal.exe.config
+D:\C#\Logic\AngkaNormal\bin\Debug\AngkaNormal.exe
+D:\C#\Logic\AngkaNormal\bin\Debug\AngkaNormal.pdb
+D:\C#\Logic\AngkaNormal\obj\Debug\AngkaNormal.csprojResolveAssemblyReference.cache
+D:\C#\Logic\AngkaNormal\obj\Debug\AngkaNormal.exe
+D:\C#\Logic\AngkaNormal\obj\Debug\AngkaNormal.pdb

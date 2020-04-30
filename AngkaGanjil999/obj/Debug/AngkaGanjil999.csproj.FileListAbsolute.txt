@@ -1,0 +1,5 @@
+D:\C#\Logic\AngkaGanjil999\bin\Debug\AngkaGanjil999.exe.config
+D:\C#\Logic\AngkaGanjil999\bin\Debug\AngkaGanjil999.exe
+D:\C#\Logic\AngkaGanjil999\bin\Debug\AngkaGanjil999.pdb
+D:\C#\Logic\AngkaGanjil999\obj\Debug\AngkaGanjil999.exe
+D:\C#\Logic\AngkaGanjil999\obj\Debug\AngkaGanjil999.pdb

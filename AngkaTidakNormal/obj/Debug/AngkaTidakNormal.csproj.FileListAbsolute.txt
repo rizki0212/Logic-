@@ -1,0 +1,5 @@
+D:\C#\Logic\AngkaTidakNormal\bin\Debug\AngkaTidakNormal.exe.config
+D:\C#\Logic\AngkaTidakNormal\bin\Debug\AngkaTidakNormal.exe
+D:\C#\Logic\AngkaTidakNormal\bin\Debug\AngkaTidakNormal.pdb
+D:\C#\Logic\AngkaTidakNormal\obj\Debug\AngkaTidakNormal.exe
+D:\C#\Logic\AngkaTidakNormal\obj\Debug\AngkaTidakNormal.pdb
